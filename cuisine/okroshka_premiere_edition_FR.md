@@ -1,6 +1,8 @@
 # L’okrochka comme système culinaire multifactoriel : bases liquides, température de service et structure du mélange émincé
 
-**Auteur : A. N. Koryakin**
+**A. N. Koriakine**
+2026
+*Manuscrit de recherche*
 
 *Étude interdisciplinaire : chimie alimentaire, microbiologie des fermentations, analyse sensorielle, histoire de l’alimentation*
 
