@@ -477,6 +477,12 @@ Les hypothèses de la triade sont structurées en miroir et peuvent être testé
 
 ---
 
+### Utilisation des outils d’IA
+
+De grands modèles de langage ont été utilisés lors de la préparation du manuscrit afin d’aider à structurer la recherche, à discuter de manière critique les hypothèses, à effectuer la révision linguistique, la traduction et la recherche bibliographique. Les questions de recherche, les modèles conceptuels, l’interprétation des sources et les conclusions ont été déterminés par l’auteur. L’auteur a vérifié les affirmations factuelles et les références et assume l’entière responsabilité du contenu.
+
+---
+
 ## Références
 
 1. Даль В. И. *Толковый словарь живого великорусского языка*: в 4 т. — М.: Русский язык, 1978–1980 (réimpression de l’éd. 1880–1882). Article « Окрошка » (t. 2) : « холодная похлебка на квасу, из крошеного мяса, лука и др. приправ » (section 1.2).

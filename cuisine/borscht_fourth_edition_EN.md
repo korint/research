@@ -629,6 +629,13 @@ The question posed in this study—“what minimal features make an object itsel
 8. **[Г]** The ИБ model forms a methodological pair with the Shchi Index (ИЩ) in [45], but the models are not reducible to one another: ИБ includes pigment (Ц¹) and sweetness (S₁, S₂) axes and a two-stage assignment procedure (filter K ≥ 0.5 and S₁ ≥ 0.5, followed by core threshold ИБ ≥ 0.6), whereas ИЩ deliberately has no binary threshold, includes axis N (broth richness), which is absent from ИБ, and is used in conjunction with vector A = (I, C, D, P, R), which decomposes the acid profile into temporal components (D, P). ИЩ itself does not contain those components, but its experimental program collects data on vector A, for which ИБ has no analogue. The hypotheses of the pair are mirrored and mutually testable within the same experimental form: acidity is the hypothesized strongest predictor of borscht identification (H1) and the expected weakest ИЩ axis; cross-class H6 converts this mirrored comparison into a direct joint test by removing the acidic component from both dishes.
 
 ---
+
+### Use of AI tools
+
+Large language models were used during manuscript preparation to assist with research structuring, critical discussion of hypotheses, language editing, translation, and literature discovery. The research questions, conceptual models, interpretation of sources, and conclusions were determined by the author. The author reviewed and verified the factual claims and references and takes full responsibility for the content.
+
+---
+
 ## References
 
 1. Borscht // Encyclopædia Britannica. URL: https://www.britannica.com/topic/borscht (accessed 02 Aug 2026).

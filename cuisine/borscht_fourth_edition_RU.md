@@ -632,6 +632,12 @@
 
 ---
 
+### Use of AI tools
+
+Large language models were used during manuscript preparation to assist with research structuring, critical discussion of hypotheses, language editing, translation, and literature discovery. The research questions, conceptual models, interpretation of sources, and conclusions were determined by the author. The author reviewed and verified the factual claims and references and takes full responsibility for the content.
+
+---
+
 ## Список литературы
 
 1. Borscht // Encyclopædia Britannica. URL: https://www.britannica.com/topic/borscht (дата обращения: 02.08.2026).

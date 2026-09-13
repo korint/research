@@ -481,6 +481,12 @@ The triad’s hypotheses are mirror-structured and mutually testable: acidity is
 
 ---
 
+### Use of AI tools
+
+Large language models were used during manuscript preparation to assist with research structuring, critical discussion of hypotheses, language editing, translation, and literature discovery. The research questions, conceptual models, interpretation of sources, and conclusions were determined by the author. The author reviewed and verified the factual claims and references and takes full responsibility for the content.
+
+---
+
 ## References
 
 1. Даль В. И. Толковый словарь живого великорусского языка: в 4 т. — М.: Русский язык, 1978–1980 (репринт изд. 1880–1882). Статья «Окрошка» (т. 2): «холодная похлебка на квасу, из крошеного мяса, лука и др. приправ» (section 1.2).

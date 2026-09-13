@@ -627,6 +627,12 @@ La question posée dans cette étude — « quels traits minimaux font qu’un o
 
 ---
 
+### Utilisation des outils d’IA
+
+De grands modèles de langage ont été utilisés lors de la préparation du manuscrit afin d’aider à structurer la recherche, à discuter de manière critique les hypothèses, à effectuer la révision linguistique, la traduction et la recherche bibliographique. Les questions de recherche, les modèles conceptuels, l’interprétation des sources et les conclusions ont été déterminés par l’auteur. L’auteur a vérifié les affirmations factuelles et les références et assume l’entière responsabilité du contenu.
+
+---
+
 ## Références
 
 1. Borscht // Encyclopædia Britannica. URL: https://www.britannica.com/topic/borscht (consulté le 2 août 2026).

@@ -603,6 +603,14 @@ Chaque affirmation substantielle du travail est reliée à une méthode de véri
 
 *Sixième édition (révision après la cinquième expertise du projet commun) : attribution au vecteur A d’une métrique de comparaison typée avec distance pondérée d_A (§3.1), formalisation de la sensation temporelle sous forme de courbe I(t) et ajout au questionnaire (annexe D) ; ajout aux axes de ИЩ d’ancrages d’échelle 0 / 0,5 / 1 harmonisés avec le modèle jumelé [47] (§5.2) ; ajout d’un schéma causal avec variables de confusion (§3.3) et d’une matrice de contrôle des variables de confusion (§8) ; reconstruction de l’Expérience 2 comme dispositif à quatre niveaux (produits réels → acides purs → mélanges reproduisant le profil → matrice standardisée), séparant les effets du profil, des métabolites et de la matrice (§8) ; ajout à l’Expérience 3 d’une séparation apprentissage/test par cuissons et jours et d’un troisième indicateur de la variable latente d’appartenance — confiance (0–3) ; inclusion dans le modèle statistique d’effets aléatoires pour la cuisson et le jour, avec correction de l’affirmation d’« indépendance automatique » des répétitions ; séparation du programme en série pilote et série principale ; ajout de la prédiction P6 (architecture compensatoire), d’un tableau d’interprétation des résultats négatifs (§7.1), du coefficient de sensibilité tampon βₚ (§2.2), d’un tableau synthétique de la valeur probante des témoignages historiques (§1.2) et d’une matrice de traçabilité des affirmations (annexe F).*
 
+---
+
+### Utilisation des outils d’IA
+
+De grands modèles de langage ont été utilisés lors de la préparation du manuscrit afin d’aider à structurer la recherche, à discuter de manière critique les hypothèses, à effectuer la révision linguistique, la traduction et la recherche bibliographique. Les questions de recherche, les modèles conceptuels, l’interprétation des sources et les conclusions ont été déterminés par l’auteur. L’auteur a vérifié les affirmations factuelles et les références et assume l’entière responsabilité du contenu.
+
+---
+
 # Références
 
 pour l’étude *À propos de la formation du profil acido-gustatif des chtchi traditionnels*
