@@ -1,6 +1,8 @@
 # Okroshka as a Multifactor Culinary System: Liquid Bases, Serving Temperature, and the Structure of the Diced Mixture
 
-**Author: A. N. Koryakin**
+**A. N. Koriakin**
+2026
+*Research manuscript*
 
 *Interdisciplinary study: food chemistry, fermentation microbiology, sensory analysis, history of food*
 

@@ -1,6 +1,10 @@
 # Le bortsch comme système culinaire multifactoriel : classification des variantes, sources de couleur et profil gustatif
 
-**Auteur : A. N. Koryakin**
+**A. N. Koriakine**
+2026
+*Manuscrit de recherche*
+
+*Étude interdisciplinaire : chimie alimentaire, microbiologie des fermentations, analyse sensorielle, histoire de l’alimentation*
 
 ---
 

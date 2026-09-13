@@ -1,6 +1,8 @@
 # À propos de la formation du profil acido-gustatif des chtchi traditionnels
 
-**Auteur : A. N. Koryakin**
+**A. N. Koriakine**
+2026
+*Manuscrit de recherche*
 
 *Étude interdisciplinaire : chimie alimentaire, microbiologie des fermentations, analyse sensorielle, histoire de l’alimentation*
 

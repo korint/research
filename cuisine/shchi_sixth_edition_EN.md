@@ -1,6 +1,8 @@
 # On the Formation of the Acid–Flavor Profile of Traditional Shchi
 
-**Author: A. N. Koryakin**
+**A. N. Koriakin**
+2026
+*Research manuscript*
 
 *Interdisciplinary study: food chemistry, fermentation microbiology, sensory analysis, food history*
 

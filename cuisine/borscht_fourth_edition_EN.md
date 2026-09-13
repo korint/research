@@ -1,6 +1,10 @@
 # Borscht as a Multifactorial Culinary System: Classification of Varieties, Sources of Color, and Flavor Profile
 
-**Author: A. N. Koryakin**
+**A. N. Koriakin**
+2026
+*Research manuscript*
+
+*Interdisciplinary study: food chemistry, fermentation microbiology, sensory analysis, food history*
 
 ---
 
