@@ -593,6 +593,12 @@ Every substantive claim of the study is traced to a way of testing it and a cond
 
 ---
 
+### Use of AI tools
+
+Large language models were used during manuscript preparation to assist with research structuring, critical discussion of hypotheses, language editing, translation, and literature discovery. The research questions, conceptual models, interpretation of sources, and conclusions were determined by the author. The author reviewed and verified the factual claims and references and takes full responsibility for the content.
+
+---
+
 # References
 
 for the study *On the Formation of the Acid–Flavor Profile of Traditional Shchi*
