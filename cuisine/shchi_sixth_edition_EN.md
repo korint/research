@@ -94,7 +94,7 @@ The Old Russian form of the word is *shti*, attested in the *Domostroi* (sixteen
 
 **[Д]** Salt and sugar suppress perceived sourness [13]; in fatty media there are effects of mutual suppression (sweetness ↔ “creaminess”) that depend on the taster’s phenotype [19]; sweetness–acidity–fat interactions have been demonstrated in consumers [20, 23]; the broader framework is given in [21]. Acid and umami also interact, and the effect may be asymmetric (increasing acidity can reduce perceived umami). *(The term “umami” — from Japanese* umai, *“delicious” — denotes the fifth basic taste, “savory” or “brothy”; its chemical carriers are glutamic acid (glutamate) and certain nucleotides characteristic of meat, mushrooms, ripe tomatoes, and fermented foods.)*
 
-**[Г]** Applied to shchi: umami components (tomato, mushrooms, meat) may alter the overall flavor balance and the relative salience of sourness. The direction and magnitude of this effect in the shchi matrix are unknown and require testing. (Earlier formulations such as “umami shifts attention” were psychological interpretations and have been removed from the present edition.)
+**[Г]** Applied to shchi: umami components (tomato, mushrooms, meat) may alter the overall flavor balance and the relative salience of sourness. The direction and magnitude of this effect in the shchi matrix are unknown and require testing. 
 
 ### 2.4. Tomatoes
 

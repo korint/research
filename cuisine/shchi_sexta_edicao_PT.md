@@ -103,7 +103,7 @@ A forma russa antiga da palavra é *shti*, atestada no *Domostroi* (século XVI)
 
 **[Д]** O sal e o açúcar suprimem a acidez percebida [13]; em meios gordurosos atuam efeitos de supressão mútua (doçura ↔ «cremosidade»), dependentes do fenótipo do provador [19]; interações doçura–acidez–gordura foram confirmadas em consumidores [20, 23]; o quadro geral é apresentado em [21]. Ácido e umami também interagem, e o efeito pode ser assimétrico (o aumento da acidez pode reduzir a percepção de umami). *(O termo «umami» — do japonês* umai, *«saboroso» — designa o quinto gosto básico, «rico» ou «de caldo»; seus portadores químicos são o ácido glutâmico (glutamato) e alguns nucleotídeos característicos de carne, cogumelos, tomates maduros e produtos fermentados.)*
 
-**[Г]** Aplicado aos shchi: componentes de umami (tomate, cogumelos, carne) podem alterar o equilíbrio gustativo geral e a expressão relativa do sabor ácido. A direção e a magnitude desse efeito na matriz dos shchi são desconhecidas e exigem teste. (Formulações anteriores como «o umami desloca a atenção» são uma interpretação psicológica e foram excluídas desta edição.)
+**[Г]** Aplicado aos shchi: componentes de umami (tomate, cogumelos, carne) podem alterar o equilíbrio gustativo geral e a expressão relativa do sabor ácido. A direção e a magnitude desse efeito na matriz dos shchi são desconhecidas e exigem teste.
 
 ### 2.4. Tomates
 

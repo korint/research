@@ -94,7 +94,7 @@ La forme vieux-russe du mot est *shti*, attestée dans le *Domostroï* (XVIe si�
 
 **[Д]** Le sel et le sucre réduisent l’acidité perçue [13] ; dans les milieux gras, des effets de suppression mutuelle (douceur ↔ « crémeux ») dépendent du phénotype du dégustateur [19] ; les interactions douceur–acidité–matière grasse ont été démontrées chez les consommateurs [20, 23] ; le cadre plus large est donné dans [21]. L’acide et l’umami interagissent eux aussi, et l’effet peut être asymétrique (une augmentation de l’acidité peut réduire l’umami perçu). *(Le terme « umami » — du japonais* umai, *« savoureux » — désigne le cinquième goût fondamental, « savoureux » ou « bouillonné » ; ses porteurs chimiques sont l’acide glutamique (glutamate) et certains nucléotides caractéristiques de la viande, des champignons, des tomates mûres et des produits fermentés.)*
 
-**[Г]** Application aux chtchi : les composants umami (tomate, champignons, viande) peuvent modifier l’équilibre gustatif global et la saillance relative de l’acidité. La direction et l’ampleur de cet effet dans la matrice des chtchi sont inconnues et doivent être testées. (Les formulations antérieures du type « l’umami déplace l’attention » étaient des interprétations psychologiques et ont été retirées de la présente édition.)
+**[Г]** Application aux chtchi : les composants umami (tomate, champignons, viande) peuvent modifier l’équilibre gustatif global et la saillance relative de l’acidité. La direction et l’ampleur de cet effet dans la matrice des chtchi sont inconnues et doivent être testées.
 
 ### 2.4. Tomates
 
