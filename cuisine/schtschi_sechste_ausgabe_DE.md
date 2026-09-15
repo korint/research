@@ -8,8 +8,6 @@
 
 *Interdisciplinary study: food chemistry, fermentation microbiology, sensory analysis, food history*
 
-*Sechste Ausgabe. Die dritte Ausgabe wurde nach Begutachtung überarbeitet: Eine dreistufige Modellarchitektur, ein Prototypikalitätsmodell, ein Abschnitt mit falsifizierbaren Vorhersagen und ein überarbeitetes Versuchsprogramm wurden eingeführt; die vierte Ausgabe wurde mit der Begleitstudie zu Borschtsch [47] abgestimmt; die fünfte Ausgabe wurde nach der vierten Begutachtung des gemeinsamen Projekts überarbeitet: Vektor A und Pufferkapazität wurden operationalisiert, Effektgrößen für die Vorhersagen P1–P5 festgelegt, ein klassenübergreifender Asymmetrietest mit dem Borschtsch-Modell sowie statistische Ergänzungen eingeführt; die sechste Ausgabe wurde nach der fünften Begutachtung überarbeitet: Vektor A erhielt eine Vergleichsmetrik, die Achsen des Schtschi-Index bekamen Skalenanker, das Versuchsprogramm wurde um Trainings-/Testaufteilungen, eine Störvariablenmatrix, ein Kausalschema und ein Vier-Stufen-Design für Experiment 2 ergänzt, und das statistische Modell behandelt nun Kochansatz und Tag als Zufallseffekte (siehe redaktionelle Anmerkungen am Ende des Haupttexts).*
-
 > *„Schtschi (ausgesprochen ‚shtshee‘)… erwiesen sich als durchaus essbar, obwohl sie irgendeine saure Zutat enthielten, die vielleicht für den russischen Geschmack notwendig ist.“*
 > **Lewis Carroll, *The Russian Journal*, 1867** [42]
 

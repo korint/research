@@ -8,8 +8,6 @@
 
 *Interdisciplinary study: food chemistry, fermentation microbiology, sensory analysis, food history*
 
-*Sexta edición. La tercera edición fue revisada tras la revisión por pares: se introdujeron una arquitectura de modelo de tres niveles, un modelo de prototipicidad, una sección de predicciones falsables y un programa experimental revisado; la cuarta edición se armonizó con el estudio paralelo sobre borscht [47]; la quinta edición fue revisada tras la cuarta revisión del proyecto conjunto: se operacionalizaron el vector A y la capacidad tampón, se especificaron tamaños de efecto para las predicciones P1–P5, se añadieron una prueba de asimetría interclase con el modelo del borscht y complementos estadísticos; la sexta edición fue revisada tras la quinta revisión: al vector A se le asignó una métrica de comparación, los ejes del índice de shchi recibieron anclajes de escala, el programa experimental se complementó con divisiones entrenamiento/prueba, una matriz de confusores, un esquema causal y un diseño de cuatro niveles para el Experimento 2, y el modelo estadístico trata ahora cocción y día como efectos aleatorios (véanse las notas editoriales al final del texto principal).*
-
 > *«Shchi (pronunciado “shtshee”)… resultaron bastante comestibles, aunque contenían algún ingrediente ácido, quizá necesario para el gusto ruso».*
 > **Lewis Carroll, *The Russian Journal*, 1867** [42]
 
